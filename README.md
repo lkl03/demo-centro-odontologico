@@ -1,2 +1,7 @@
-# demo-centro-odontologico
-Demo web para Centro Odontológico — diseñada por eterlab.
+# Centro Odontológico
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
